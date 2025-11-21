@@ -1,4 +1,5 @@
 My name is Jojo Calinao and I am learning Git
+This is my 2nd time to edit this file
 
 # Project Summary
 
