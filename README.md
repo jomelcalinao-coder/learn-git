@@ -1,3 +1,5 @@
+My name is Jojo Calinao and I am learning Git
+
 # Project Summary
 
 Practice using git + Github
